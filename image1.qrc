@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image1">
+        <file>image_lptop.jpg</file>
+        <file>keybord.jpg</file>
+        <file>welcome.jpg</file>
+        <file>welcome1.jpg</file>
+    </qresource>
+</RCC>
